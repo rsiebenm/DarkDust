@@ -1,3 +1,5 @@
-# DarkDust - recommend to better use clone at:
+# DarkDust 
+
+Please use the updated repository:
 https://github.com/rsiebenm/dark_dust
 
